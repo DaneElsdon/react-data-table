@@ -48,3 +48,6 @@ npm run build
 ### 7. Preview the production build locally
 
 npm run preview
+=======
+# react-data-table
+Initial React Data Table Challenge Submission
