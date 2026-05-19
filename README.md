@@ -23,7 +23,7 @@ A reusable React data table component built for the frontend interview challenge
 
 ### 1. Clone the repository
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/DaneElsdon/react-data-table.git
 
 ### 2. Navigate into the project directory
 
